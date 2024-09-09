@@ -1,0 +1,10 @@
+{
+  "name": "test-jasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "isbnSpec.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {}
+}
