@@ -2,7 +2,7 @@
 
 Desafio Front-End para EasyJur, este template foi iniciado usando o Jasmine.
 
-- Escreva testes unitários utilizando Jasmine para uma função JavaScript que verifica se um dado string é um ISBN10 válido
+- Escreva testes unitários utilizando Jasmine para uma função JavaScript que verifica se um dado string é um ISBN-10 válido
 
 Link da documentação oficial utilizada:
 
